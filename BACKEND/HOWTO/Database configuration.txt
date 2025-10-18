@@ -1,0 +1,1 @@
+Database configuration parameters such as user, password, port, database name are in the 'src/app.module.ts' file
