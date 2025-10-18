@@ -1,0 +1,82 @@
+[
+    {
+        "product_id": 1,
+        "name": "Noise Cancelling Wireless Headphones",
+        "description": "Premium over-ear headphones with 40-hour battery life and adaptive noise cancellation. Perfect for travel and focus.",
+        "price": "199.99",
+        "image_url": "https://example.com/images/headphones.jpg",
+        "category": "Electronics",
+        "stock": 45,
+        "created_at": "2025-10-18T16:28:57.000Z"
+    },
+    {
+        "product_id": 2,
+        "name": "Organic Cotton T-Shirt",
+        "description": "Unisex, soft-wash t-shirt made from 100% organic cotton. Available in multiple colors.",
+        "price": "24.50",
+        "image_url": "https://example.com/images/tshirt.jpg",
+        "category": "Apparel",
+        "stock": 150,
+        "created_at": "2025-10-18T16:28:57.000Z"
+    },
+    {
+        "product_id": 3,
+        "name": "Ergonomic Desk Chair",
+        "description": "High-back mesh chair with adjustable lumbar support and height. Essential for long workdays.",
+        "price": "349.95",
+        "image_url": "https://example.com/images/chair.jpg",
+        "category": "Home & Office",
+        "stock": 10,
+        "created_at": "2025-10-18T16:28:57.000Z"
+    },
+    {
+        "product_id": 4,
+        "name": "Stainless Steel Smart Water Bottle",
+        "description": "Insulated water bottle that tracks your hydration levels and glows to remind you to drink. Syncs via Bluetooth.",
+        "price": "59.99",
+        "image_url": "https://example.com/images/smart-bottle.jpg",
+        "category": "Smart Home",
+        "stock": 80,
+        "created_at": "2025-10-18T16:32:15.000Z"
+    },
+    {
+        "product_id": 5,
+        "name": "Classic Leather Wallet",
+        "description": "Handcrafted bi-fold wallet made from Italian vegetable-tanned leather. Holds up to 8 cards.",
+        "price": "75.00",
+        "image_url": "https://example.com/images/leather-wallet.jpg",
+        "category": "Accessories",
+        "stock": 65,
+        "created_at": "2025-10-18T16:32:15.000Z"
+    },
+    {
+        "product_id": 6,
+        "name": "Gourmet Coffee Blend - 1kg",
+        "description": "Medium-roast blend of Arabica beans with notes of dark chocolate and caramel. Whole bean.",
+        "price": "18.50",
+        "image_url": "https://example.com/images/coffee-beans.jpg",
+        "category": "Food & Drink",
+        "stock": 250,
+        "created_at": "2025-10-18T16:32:15.000Z"
+    },
+    {
+        "product_id": 7,
+        "name": "4K Ultra HD Streaming Stick",
+        "description": "Plugs into any TV HDMI port for access to all major streaming services in stunning 4K resolution.",
+        "price": "49.99",
+        "image_url": "https://example.com/images/streaming-stick.jpg",
+        "category": "Electronics",
+        "stock": 200,
+        "created_at": "2025-10-18T16:32:15.000Z"
+    },
+    {
+        "product_id": 8,
+        "name": "Indoor Herb Garden Kit",
+        "description": "Complete kit for growing basil, parsley, and mint indoors. Includes seeds, pots, and soil discs.",
+        "price": "32.99",
+        "image_url": "https://example.com/images/herb-kit.jpg",
+        "category": "Gardening",
+        "stock": 35,
+        "created_at": "2025-10-18T16:32:15.000Z"
+    }
+]

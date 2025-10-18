@@ -1,0 +1,9 @@
+POST http://localhost:3000/payments HTTP/1.1
+
+Content-Type: application/json
+{
+  "customerNumber": 103,
+  "checkNumber": "IH123456",
+  "paymentDate": "2025-10-18",
+  "amount": 5000.99
+}

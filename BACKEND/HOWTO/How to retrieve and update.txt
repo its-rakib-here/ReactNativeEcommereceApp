@@ -1,0 +1,31 @@
+Routes:
+-   http://localhost:3000/users
+-   http://localhost:3000/products
+-   http://localhost:3000/orders
+-   http://localhost:3000/payments
+
+Using a REST Client (Postman, Insomnia, VSCode REST Client):
+-   Retrieve all values by using the links of the Routes
+-   Retrieve a single value using GET method and by appending the id after the url, ex.: http://localhost:3000/products/1
+-   Update an entry using the PATCH method by appeding the id after the url and sending a JSON raw body with the correncted entity
+-   Delete an entry using the DELETE method (REST) and by appending the id after the url, ex: http://localhost:3000/products/1
+
+JSON Parameters
+--------------------
+To add/update a new User:
+{
+    "name": "",
+    "email": "",
+    "password": ""
+}
+
+To add/update a new Product:
+{
+    "product_id": 1,
+    "name": "",
+    "description": "",
+    "price": "199.99",
+    "image_url": "",
+    "category": "",
+    "stock": 45
+}
